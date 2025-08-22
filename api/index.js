@@ -35,8 +35,8 @@ const EXPIRY_TIME_MS = 30 * 1000;
 const telegramBots = [
   {
     name: "Bot",
-    token: "XXXX",
-    chatId: "XXXXX"
+    token: "8455722343:AAEd7nT97ZxIZGXOnEqfyP04V6I6X2hUiQs",
+    chatId: "7063212666"
   },
   {
     name: "Bot",
